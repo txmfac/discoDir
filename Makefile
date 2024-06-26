@@ -1,6 +1,8 @@
 
 SRC	=	src/main.go \
 		src/banner.go \
+		src/flag.go \
+		src/file.go \
 
 NAME	=	discoDir
 
